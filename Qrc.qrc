@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/Qrc">
+        <file>Capture2.PNG</file>
+        <file>Capture1.PNG</file>
+    </qresource>
+</RCC>
